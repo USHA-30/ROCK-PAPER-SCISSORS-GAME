@@ -14,7 +14,7 @@ A simple and interactive Rock-Paper-Scissors game developed using **HTML**, **CS
 Check out the live version of the game here: https://usha-30.github.io/ROCK-PAPER-SCISSORS-GAME/
 
 
-## Technologies Use :d<br>
+## Technologies Used : <br>
 
 - **HTML**: Structuring the game interface.<br>
 - **CSS**: Styling and layout for a visually appealing UI.<br>
